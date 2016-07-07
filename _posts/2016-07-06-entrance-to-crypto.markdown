@@ -16,6 +16,7 @@ Syscoin.  Then I start to read into the communities and further
 investigate into bitcoin.
 
 [Syscoin][syscoin-url]
+
 [syscoin-url]: https://www.syscoin.org
 
 
