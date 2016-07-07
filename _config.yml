@@ -9,6 +9,7 @@
 title: Alpacado Software
 email: alpacado@alpacado.com
 description: > # this means to ignore newlines until "baseurl:"
+  Journals and articles on software development and research for Apps and Cryptos
   [BTC] 1DV91NtsCZCY7LqttxGGUoL7XoYkGwYNLh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.alpacado.com" # the base hostname & protocol for your site
@@ -17,3 +18,6 @@ github_username:  alpacado
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
+
