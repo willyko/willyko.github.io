@@ -69,7 +69,8 @@ mkdir ~/Library/Application\ Support/Syscoin
 next download [syscoin.conf][syscoinconf-url]
 and put it in ~/Library/Application\ Support/Syscoin/
 
-[syscoinconf-url]:https://github.com/syscoin/syscoin2/releases/download/2.1b2/syscoin.conf
+[syscoinconf-url]: https://github.com/syscoin/syscoin2/releases/download/2.1b2/syscoin.conf
+
 -------------------------------------
 
 Syscoin also has a pretty cool testing frameworking using BOOST.
@@ -96,6 +97,5 @@ git pull
 git stash apply
 make
 {% endhighlight %}
-
 
 
