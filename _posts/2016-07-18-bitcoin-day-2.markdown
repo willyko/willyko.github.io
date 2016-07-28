@@ -59,17 +59,17 @@ generate 200
 and enjoy the feeling of holding billions of TEST syscoins...
 
 Now for the public BETA testnet (coins still don't worth anything)
-[b] WARNING: BACKUP YOUR WALLET[/b]
+** WARNING: BACKUP YOUR WALLET **
 {%highlight shell %}
 ### removing app data
 rm -rf ~/Library/Application\ Support/Syscoin
 mkdir ~/Library/Application\ Support/Syscoin
-vim ~/Library/Application\n Support/Syscoin/syscoin.conf
-#add the following
-##testnode=1
-
 {% endhighlight %}
 
+next download [syscoin.conf][syscoinconf-url]
+and put it in ~/Library/Application\ Support/Syscoin/
+
+[syscoinconf-url]:https://github.com/syscoin/syscoin2/releases/download/2.1b2/syscoin.conf
 -------------------------------------
 
 Syscoin also has a pretty cool testing frameworking using BOOST.
