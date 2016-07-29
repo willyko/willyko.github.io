@@ -3,6 +3,7 @@ layout: post
 title:  "Alpacado.new()"
 date:   2016-06-02 15:33:33 -0700
 categories: alpacado update
+comments: true
 ---
 This is the creation of Alpacado Software Solution.  This is an umbrella group name for multiple projects that I have in mind.
 

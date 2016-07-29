@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin Day 1"
 date:   2016-07-07 1:49:00 -0700
 categories: cryptocurrency journal
+comments: true
 ---
 
 Here I shall describe what first day of bitcoin should've been like had

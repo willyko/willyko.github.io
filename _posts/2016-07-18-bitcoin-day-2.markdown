@@ -3,6 +3,7 @@ layout: post
 title:  "Alt-Coin Syscoin Attempt #1"
 date:   2016-07-20 17:49:00 -0700
 categories: cryptocurrency journal
+comments: true
 ---
 
 The following is the list of commands I used to compile the newest version of syscoin (2.1 BETA)

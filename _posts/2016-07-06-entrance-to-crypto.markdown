@@ -3,6 +3,7 @@ layout: post
 title:  "Cryptos.init()"
 date:   2016-07-06 17:49:00 -0700
 categories: cryptocurrency journal
+comments: true
 ---
 
 Being a believer of fate, I stumbled upon an opportunity to dive into
