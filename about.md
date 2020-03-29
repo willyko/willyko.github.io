@@ -12,7 +12,10 @@ This site is built using Jekyll.  For more information, please see:
 
 
 Topic interested:
-Alpaca
-Avocado Recipe
+Blockchain
+Cryptocurrency
+Software Development
+Devops
+
 
 
