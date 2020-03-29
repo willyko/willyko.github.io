@@ -47,7 +47,7 @@ Digging through stackoverflow and ubuntu forums, it looks like uninstalling pyth
 So I found a post to recover using Live CD.  Since I am using VirtualBox, this is probably the easiest to do.
 Shut down the box, open the setting for VirtualBox, change the drive to LiveCD and start the VM. 
 
-This is the post I used to get the mounting to work [askubuntu post](from askubuntu[https://askubuntu.com/questions/985288/how-to-restore-a-virtual-system-after-accidentally-removing-all-kernels])  from step 4 to step 11.
+This is the post I used to get the mounting to work [askubuntu post](https://askubuntu.com/questions/985288/how-to-restore-a-virtual-system-after-accidentally-removing-all-kernels)  from step 4 to step 11.
 At step 9, I also did a `sudo apt-get install -reinstall ubuntu-desktop`
 After this, I was able to remove the LiveCD and launch Ubuntu's desktop env again.
 
